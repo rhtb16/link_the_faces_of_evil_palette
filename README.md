@@ -1,1 +1,1 @@
-.ase and .css files containg the palette for all animations (backgrounds excluded) from "Link: The Faces of Evil", for the CD-i.
+.ase and .css files containing the palette for all animations (backgrounds not included) from the CD-i game "Link: The Faces of Evil".
